@@ -6,7 +6,7 @@ export default function format( { children }){
     return (
         <>
             <Head>
-                <title>Blog</title>
+                <title>SIRMUR Blog</title>
             </Head>
 
             <Header></Header>
